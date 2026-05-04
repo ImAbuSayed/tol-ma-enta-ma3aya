@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نظرة عينيك تاخذني لبعيد
+> أنا قلبي دايب، وحبك بيزيد
+> شوقك نار بتدفي الحنين
+> خلينا نضيع في سحر السنين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
