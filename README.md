@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tol-ma-enta-ma3aya/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Tol Ma Enta Ma3aya](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Tol Ma Enta Ma3aya](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
